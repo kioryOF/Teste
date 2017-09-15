@@ -14,7 +14,7 @@ public class Principal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Messi bocu");// TODO code application logic here
+        System.out.println("Messi boku");// TODO code application logic here
     }
     
 }
